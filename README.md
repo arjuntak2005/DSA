@@ -2,7 +2,7 @@
 
 Personal Data Structures & Algorithms practice repository solved in Python, organized by topic, tracked here for quick revision.
 
-**Number of Questions:** 2 solved
+**Number of Questions:** 3 solved
 ---
 
 ## Arrays
@@ -11,6 +11,7 @@ Personal Data Structures & Algorithms practice repository solved in Python, orga
 |---|---|---|---|---|---|---|
 | Find largest int | [`find_largest_int.py`](array/find_largest_int.py) | Traversal | O(n) | O(1) | ✅ | Optimal solution |
 | Find majority element | [`majority_element.py`](array/majority_element.py) |  | O(n) | O(n) | ✅ | working on Optimal solution |
+| Array Leaders | [`array_leaders.py`](array/array_leaders.py) | Traversal | O(n) | O(n) | ✅ | Optimal solution |
 
 ## How to Use This Repo
 1. Each topic has its own folder with one `.py` file per problem.
