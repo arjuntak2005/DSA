@@ -9,9 +9,10 @@ Personal Data Structures & Algorithms practice repository solved in Python, orga
 
 | Problem | File | Pattern | Time | Space | Status | Notes |
 |---|---|---|---|---|---|---|
-| Find largest int | [`find_largest_int.py`](array/find_largest_int.py) | Traversal | O(n) | O(1) | ✅ | Optimal solution |
-| Find majority element | [`majority_element.py`](array/majority_element.py) |  | O(n) | O(n) | ✅ | working on Optimal solution |
-| Array Leaders | [`array_leaders.py`](array/array_leaders.py) | Traversal | O(n) | O(n) | ✅ | Optimal solution |
+| [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [`find_largest_int.py`](array/find_largest_int.py) | Traversal | O(n) | O(1) | ✅ | Optimal solution |
+| [Majority Element](https://leetcode.com/problems/majority-element/description/) | [`majority_element.py`](array/majority_element.py) | Voting | O(n) | O(1) | 🔁 | Optimal solution using the Boyer-Moore Voting Algorithm |
+| [Array Leaders](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | [`array_leaders.py`](array/array_leaders.py) | Traversal | O(n) | O(n) | ✅ | Optimal solution |
+
 
 ## How to Use This Repo
 1. Each topic has its own folder with one `.py` file per problem.

@@ -65,7 +65,24 @@ def majority_element_2(nums):
 
 
 # Optimal Solution
-# working on it..
+"""
+Time: O(n)
+Space: O(1)
+"""
+
+
+def majority_element_3(nums):
+    count = 0
+    candidate = None
+
+    for num in nums:
+        if count == 0:
+            candidate = num
+        count += 1 if num == candidate else -1
+
+    return candidate
+
+
 if __name__ == "__main__":
     print("Majority Element: ")
     problems = [
@@ -76,5 +93,5 @@ if __name__ == "__main__":
     ]
     for problem in problems:
         print(f"Problem: {problem}")
-        print(f"Solution: {majority_element_2(problem)}")
+        print(f"Solution: {majority_element_3(problem)}")
         print()
