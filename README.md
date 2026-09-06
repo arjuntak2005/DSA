@@ -2,7 +2,7 @@
 
 Personal Data Structures & Algorithms practice repository solved in Python, organized by topic, tracked here for quick revision.
 
-**Number of Questions:** 4 solved
+**Number of Questions:** 6 solved
 ---
 
 ## Arrays
@@ -13,8 +13,10 @@ Personal Data Structures & Algorithms practice repository solved in Python, orga
 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [`majority_element.py`](array/majority_element.py) | Voting | O(n) | O(1) | 🔁 | Optimal solution using the Boyer-Moore Voting Algorithm |
 | [Array Leaders](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | [`array_leaders.py`](array/array_leaders.py) | Traversal | O(n) | O(n) | ✅ | Optimal solution |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [`rearrange_by_sign.py`](array/rearrange_by_sign.py) |  | O(n) | O(n) | ✅ | Brute Force |
+| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [`spiral_matrix.py`](array/spiral_matrix.py) |  | O(-) | O(-) | ❌ | Pending |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [`rotate-image.py`](array/rotate-image.py) |  | O(-) | O(-) | ❌ | Pending |
 
-
+C:\Users\Arjun\Documents\Github-DSA\DSA\array\rotate_matrix_90_degrees.py
 ## How to Use This Repo
 1. Each topic has its own folder with one `.py` file per problem.
 2. Every file has a docstring: problem statement, approach, complexity.
