@@ -2,7 +2,7 @@
 
 Personal Data Structures & Algorithms practice repository solved in Python, organized by topic, tracked here for quick revision.
 
-**Number of Questions:** 6 solved
+**Number of Questions:** 7 solved
 ---
 
 ## Arrays
@@ -15,6 +15,7 @@ Personal Data Structures & Algorithms practice repository solved in Python, orga
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [`rearrange_by_sign.py`](array/rearrange_by_sign.py) |  | O(n) | O(n) | ✅ | Brute Force |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [`spiral_matrix.py`](array/spiral_matrix.py) |  | O(-) | O(-) | ❌ | Pending |
 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [`rotate-image.py`](array/rotate-image.py) |  | O(-) | O(-) | ❌ | Pending |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [`pascals_triangle.py`](array/pascals_triangle.py) | Recursion | O(n^2) | O(n^2) | 🔁 | Optimal solution O(1) - Auxiliary space |
 
 C:\Users\Arjun\Documents\Github-DSA\DSA\array\rotate_matrix_90_degrees.py
 ## How to Use This Repo
