@@ -2,7 +2,7 @@
 
 Personal Data Structures & Algorithms practice repository solved in Python, organized by topic, tracked here for quick revision.
 
-**Number of Questions:** 7 solved
+**Number of Questions:** 8 solved
 ---
 
 ## Arrays
@@ -16,8 +16,9 @@ Personal Data Structures & Algorithms practice repository solved in Python, orga
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [`spiral_matrix.py`](array/spiral_matrix.py) |  | O(-) | O(-) | ❌ | Pending |
 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [`rotate-image.py`](array/rotate-image.py) |  | O(-) | O(-) | ❌ | Pending |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [`pascals_triangle.py`](array/pascals_triangle.py) | Recursion | O(n^2) | O(n^2) | 🔁 | Optimal solution O(1) - Auxiliary space |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [`two_sum.py`](array/two_sum.py) | Hashmap | O(n) | O(1) | ✅ | Optimal solution |
 
-C:\Users\Arjun\Documents\Github-DSA\DSA\array\rotate_matrix_90_degrees.py
+
 ## How to Use This Repo
 1. Each topic has its own folder with one `.py` file per problem.
 2. Every file has a docstring: problem statement, approach, complexity.
