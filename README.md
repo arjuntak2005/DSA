@@ -2,7 +2,7 @@
 
 Personal Data Structures & Algorithms practice repository solved in Python, organized by topic, tracked here for quick revision.
 
-**Number of Questions:** 8 solved
+**Number of Questions:** 9 solved
 ---
 
 ## Arrays
@@ -17,7 +17,7 @@ Personal Data Structures & Algorithms practice repository solved in Python, orga
 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [`rotate-image.py`](array/rotate-image.py) |  | O(-) | O(-) | ❌ | Pending |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [`pascals_triangle.py`](array/pascals_triangle.py) | Recursion | O(n^2) | O(n^2) | 🔁 | Optimal solution O(1) - Auxiliary space |
 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [`two_sum.py`](array/two_sum.py) | Hashmap | O(n) | O(1) | ✅ | Optimal solution |
-
+| [Three Sum](https://leetcode.com/problems/3sum/description/) | [`three_sum.py`](array/three_sum.py) |  | O(n^4) | O(1) | 🔁 | Brute force solution |
 
 ## How to Use This Repo
 1. Each topic has its own folder with one `.py` file per problem.
